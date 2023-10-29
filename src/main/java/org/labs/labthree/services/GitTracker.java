@@ -1,4 +1,4 @@
-package org.labs.labthree.services;
+package org.labs.services;
 
 import java.io.File;
 
