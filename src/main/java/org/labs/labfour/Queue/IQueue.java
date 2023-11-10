@@ -1,4 +1,4 @@
-package Queue;
+package org.labs.labfour.Queue;
 
 public interface IQueue<T> {
     void enqueue(T element);  // Adds an element to the end of the queue

@@ -1,6 +1,6 @@
 package org.labs.Functionality;
 
-import org.labs.services.GitFileTracker;
+import org.labs.labthree.services.GitFileTracker;
 
 import java.util.Scanner;
 

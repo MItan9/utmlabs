@@ -1,4 +1,4 @@
-package Queue;
+package org.labs.labfour.Queue;
 
 import java.util.ArrayList;
 import java.util.List;

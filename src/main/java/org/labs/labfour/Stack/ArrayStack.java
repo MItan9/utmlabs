@@ -1,4 +1,4 @@
-package Stack;
+package org.labs.labfour.Stack;
 
 public class ArrayStack<T> implements IStack<T> {
     private T[] array;

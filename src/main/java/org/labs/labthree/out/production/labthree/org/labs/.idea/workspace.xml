@@ -6,18 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1609b92b-6bf2-4cbb-a8ed-c0d4a6b3a164" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Files/Dachshund.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Files/Dachshund.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Files/dachshund1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Files/dachshund2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Files/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Functionality/AppFunctionality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/SupportingTools/DateFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/services/FileService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/services/GitFileTracker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labthree/services/GitTracker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utmlabs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labthree/org/labs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labthree/org/labs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labthree/org/labs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labthree/org/labs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labthree/org/labs/files/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labthree/org/labs/files/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labthree/org/labs/services/GitFileTracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labthree/org/labs/services/GitFileTracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GitFileTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/GitFileTracker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../labtwo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../labtwo/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,11 +68,27 @@
       <option name="presentableId" value="Default" />
       <updated>1698603098881</updated>
       <workItem from="1698603099900" duration="8797000" />
-      <workItem from="1698620237695" duration="712000" />
+      <workItem from="1698620237695" duration="1566000" />
+      <workItem from="1698658753938" duration="1806000" />
+      <workItem from="1699268628008" duration="5166000" />
+      <workItem from="1699274157750" duration="1479000" />
+      <workItem from="1699340841327" duration="68000" />
+      <workItem from="1699360594924" duration="1548000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

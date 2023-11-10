@@ -1,4 +1,4 @@
-package Stack;
+package org.labs.labfour.Stack;
 
 public class LinkedListStack<T> implements IStack<T> {
     private static class Node<T> {

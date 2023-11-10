@@ -1,4 +1,4 @@
-package org.labs.services;
+package org.labs.labthree.services;
 
 import org.labs.SupportingTools.DateFormat;
 

@@ -1,4 +1,4 @@
-package Stack;
+package org.labs.labfour.Stack;
 
 public interface IStack<T> {
     void push(T element);  // adds an item to the top of the stack

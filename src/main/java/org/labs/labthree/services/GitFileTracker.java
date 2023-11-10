@@ -1,4 +1,4 @@
-package org.labs.services;
+package org.labs.labthree.services;
 
 import org.labs.SupportingTools.DateFormat;
 
@@ -73,7 +73,7 @@ public class GitFileTracker extends GitTracker {
 
     public void status() {
         if (fileLastModifiedMap.isEmpty()) {
-            System.out.println("There're no any snapshots. You have to execute command commit.");
+            System.out.println("There are no any snapshots. You have to execute command commit.");
             return;
         }
 

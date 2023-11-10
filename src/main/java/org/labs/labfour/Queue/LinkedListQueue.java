@@ -1,4 +1,4 @@
-package Queue;
+package org.labs.labfour.Queue;
 
 public class LinkedListQueue<T> implements IQueue<T> {
     private static class Node<T> {
