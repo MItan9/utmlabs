@@ -12,6 +12,14 @@ class Dachshund:
         print(f"Age: {self.age} years")
         print(f"Color: {self.color}")
 
+    def bark(self):
+            print(f"{self.name}, the Dachshund, is barking!")
+
+    def display_info(self):
+        print(f"Name: {self.name}")
+        print(f"Age: {self.age} years")
+        print(f"Color: {self.color}")
+
 my_dachshund = Dachshund("Buddy", 5, "Brown")
 
 my_dachshund.bark()

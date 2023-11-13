@@ -1,4 +1,4 @@
-package org.labs.Functionality;
+package org.labs.labthree.Functionality;
 
 import org.labs.labthree.services.GitFileTracker;
 

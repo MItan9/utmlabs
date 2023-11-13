@@ -1,6 +1,7 @@
-package org.labs;
+package org.labs.labthree;
 
-import org.labs.Functionality.AppFunctionality;
+
+import org.labs.labthree.Functionality.AppFunctionality;
 
 public class Main {
 
